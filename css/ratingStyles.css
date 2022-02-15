@@ -1,0 +1,38 @@
+.iceCreamRating {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.iceCreamRatingT {
+  border-collapse: collapse;
+  color: #7952B3;
+}
+
+.iceCreamRatingT th, td {
+  border: 2px dashed;
+  padding: 5px;
+}
+
+.quote {
+  display: inline-block;
+  margin: 90px 0 25px;
+}
+
+#vani {
+  background-color: #F4F9F9;
+}
+
+#choc {
+  background-color: #766161;
+  background-color: rgba(118, 97, 97, .8);
+}
+
+#mint {
+  background-color: #57CC99;
+}
+
+#cara {
+  background-color: #FFC107;
+}
