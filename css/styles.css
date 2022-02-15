@@ -38,16 +38,3 @@ a {
 a:hover {
   color: #456b8c;
 }
-
-@media(max-width: 1000px) {
-  a {
-    color: #5584AC;
-    font-size: 20px;
-    text-decoration: underline;
-    text-underline-position: under;
-    position: absolute;
-    bottom: 500px;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
-}
