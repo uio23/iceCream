@@ -38,7 +38,7 @@ a:hover {
   color: #456b8c;
 }
 
-@media (max-height:500px) {
+@media (max-height:700px) {
   a {
     bottom: 10px;
   }
