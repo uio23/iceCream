@@ -1,5 +1,5 @@
 # iceCream
-Ice Cream!
+#### An Ice Cream fan website, because why not.
 
 The favicon used in this website was generated using the following graphics from Twitter Twemoji:
 
